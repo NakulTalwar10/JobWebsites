@@ -1,0 +1,23 @@
+.btn-5 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    background-color: #f3f7fe;
+    color: #000000;
+    border: none;
+    border-radius: 20px;
+    width: 120px;
+    height: 45px;
+    transition: .3s;
+    border: 2px solid black;
+  }
+  
+  .btn-5:hover {
+    background-color: #3b82f6;
+    box-shadow: 0 0 0 5px #3b83f65f;
+    color: #fff;
+  }
+
+  .video{
+    height: 100%;
+  }
+  
